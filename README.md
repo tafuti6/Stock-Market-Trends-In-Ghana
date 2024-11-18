@@ -7,7 +7,7 @@ To carry out this analysis, I have downloaded stock market data from the officia
 
 Through a mix of statistical techniques, including time series analysis and regression modeling, combined with data visualization tools in R, this study will offer a deeper understanding of how the GSE has been performing during this specific period. Ultimately, the goal is to gain insights that could guide investment decisions and contribute to the broader discussion on the dynamics of the Ghanaian stock market.
 
-### Research Questions
+### Analytical Questions
 1. What are the time-trend analysis?
 2. What are the trends in the GSE-CI, Financial Stock Index, and Market Capitalization during this period?
 3. What are the daily percentage changes in the GSE-CI and Financial Stock Index?
